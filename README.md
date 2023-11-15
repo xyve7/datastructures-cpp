@@ -12,3 +12,4 @@ Many schools and courses require many of their assignments to be made with custo
 - [ ] A queue
 ### Check out it's sister repositories!
 [Data Structures in Java](https://github.com/xyve7/datastructures-java)
+[Data Structures in C#](https://github.com/xyve7/datastructures-cs)
